@@ -10,6 +10,8 @@ Nous utilisons des approches :
 ---
 
 ## 📂 Dataset
+![dataset](https://github.com/jacobrino/ML-DETECTION-ANOMALIE-TRANSACTION-BANCAIRE/blob/develop/docs/apercu-dataset.png)
+
 Dataset Kaggle officiel :  
 🔗 https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
 
