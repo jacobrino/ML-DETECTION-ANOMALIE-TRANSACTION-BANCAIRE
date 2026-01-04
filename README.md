@@ -1,4 +1,4 @@
-# Détection des anomalies dans les transactions bancaires
+# Détection des anomalies dans les transactions bancaires à travers le Machine Learning
 Ce projet de Machine Learning a été élaboré en Juillet 2025 mais publié en Décembre 2025 dans un cadre de mise à jour d'un portfolio personnel.
 
 ## 📌 Contexte
@@ -123,4 +123,4 @@ Sur le notebook **LOF**, les résultats affichés montrent :
 
 ## 🧑‍💻 Auteur
 **ANDRIANJARA Jacob Rino**  
-Projet académique : Détection des anomalies dans les transactions bancaires
+Projet personel : Détection des anomalies dans les transactions bancaires
