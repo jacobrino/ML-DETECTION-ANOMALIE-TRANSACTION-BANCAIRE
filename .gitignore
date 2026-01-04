@@ -1,0 +1,56 @@
+# ==========================
+# Python
+# ==========================
+__pycache__/
+*.py[cod]
+*.so
+*.pyd
+*.dll
+
+# ==========================
+# Environnements virtuels
+# ==========================
+venv/
+.env/
+.venv/
+env/
+
+# ==========================
+# Jupyter / Notebook
+# ==========================
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# ==========================
+# Données (éviter d'envoyer le dataset sur GitHub)
+# ==========================
+data/
+*.csv
+*.xlsx
+*.parquet
+*.json
+*.zip
+*.rar
+
+# ==========================
+# Modèles sauvegardés
+# ==========================
+*.pkl
+*.joblib
+*.h5
+*.pt
+*.onnx
+
+# ==========================
+# Logs / Outputs
+# ==========================
+logs/
+outputs/
+results/
+*.log
+
+# ==========================
+# OS
+# ==========================
+.DS_Store
+Thumbs.db
