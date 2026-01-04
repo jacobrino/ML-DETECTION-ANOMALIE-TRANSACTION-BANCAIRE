@@ -16,41 +16,12 @@ Dataset Kaggle officiel :
 Page "Data" :  
 🔗 https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud/data
 
-Téléchargement via Kaggle API (nécessite authentification Kaggle) :  
-🔗 https://www.kaggle.com/api/v1/datasets/download/mlg-ulb/creditcardfraud
 
 ---
 
 ## ⬇️ Télécharger le dataset (méthode recommandée)
 
-### ✅ Option 1 — Kaggle API (download automatique)
-1) Installer Kaggle :
-```bash
-pip install kaggle
-```
-
-2) Télécharger le token Kaggle :
-https://www.kaggle.com/settings
-
-Placer `kaggle.json` ici :
-- Linux/Mac : `~/.kaggle/kaggle.json`
-- Windows : `C:\Users\<VotreNom>\.kaggle\kaggle.json`
-
-3) Télécharger :
-```bash
-kaggle datasets download -d mlg-ulb/creditcardfraud
-```
-
-4) Dézipper :
-```bash
-unzip creditcardfraud.zip -d data/
-```
-
-✅ Le fichier sera : `data/creditcard.csv`
-
----
-
-### ✅ Option 2 — Télécharger manuellement
+### Télécharger manuellement
 Télécharger depuis Kaggle :
 https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud/data
 
